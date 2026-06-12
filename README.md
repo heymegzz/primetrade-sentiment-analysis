@@ -2,7 +2,7 @@
 ## Trader Behavior & Bitcoin Market Sentiment Analysis
 
 > **Hyperliquid Historical Trades × Bitcoin Fear & Greed Index**  
-> Submitted by: [Your Name] | Data Science Internship Assignment
+> Submitted by: Meghna Nair| Data Science Internship Assignment
 
 ---
 

@@ -1,0 +1,11 @@
+pair,p,sig
+Extreme Fear vs Fear,0.0,True
+Extreme Fear vs Neutral,0.0404,True
+Extreme Fear vs Greed,0.0601,False
+Extreme Fear vs Extreme Greed,0.0,True
+Fear vs Neutral,0.0,True
+Fear vs Greed,0.0,True
+Fear vs Extreme Greed,0.0,True
+Neutral vs Greed,0.5666,False
+Neutral vs Extreme Greed,0.0,True
+Greed vs Extreme Greed,0.0,True
